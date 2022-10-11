@@ -1,6 +1,6 @@
 [![MasterHead](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)]
 
-<h1 align="center">Hi 👋, I'm Dounya MELLOUki</h1>
+<h1 align="center">Hi 👋, I'm Dounya MELLOUKI</h1>
 <h3 align="center">A passionate fullstack developer from Morocco</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1848694/screenshots/4452371/dribdesgindeskgif.gif" />
 
