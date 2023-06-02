@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)]
+![MasterHead](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
 <h1 align="center">Hi 👋, I'm Dounya MELLOUKI</h1>
 <h3 align="center">A passionate fullstack developer from Morocco</h3>
