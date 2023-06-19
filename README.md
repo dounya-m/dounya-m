@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 ![MasterHead](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
 <h1 align="center">Hi 👋, I'm Dounya MELLOUKI</h1>
