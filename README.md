@@ -1,7 +1,9 @@
 ![MasterHead](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
 <!-- <h1 align="center">Hi 👋, I'm Dounya MELLOUKI</h1> -->
-<h1 align="center>[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+%F0%9F%91%8B;Welcome+to+My+Profile!)](https://git.io/typing-svg)</h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+%F0%9F%91%8B;Welcome+to+My+Profile!)](https://git.io/typing-svg)
+           
 <h3 align="center">A passionate fullstack developer from Morocco</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1848694/screenshots/4452371/dribdesgindeskgif.gif" />
 
