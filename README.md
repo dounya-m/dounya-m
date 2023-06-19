@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;welcom+to+my+profil)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+%F0%9F%91%8B;Welcome+to+My+Profile!)](https://git.io/typing-svg)
 ![MasterHead](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
 <h1 align="center">Hi 👋, I'm Dounya MELLOUKI</h1>
