@@ -5,6 +5,29 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+%F0%9F%91%8B;Welcome+to+My+Profile!)](https://git.io/typing-svg)
            
 <h3 align="center">A passionate fullstack developer from Morocco</h3>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+%F0%9F%91%8B;Welcome+to+My+Profile!)](https://git.io/typing-svg)
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+```javascript
+const Dounya = {
+  name: "Dounya",
+  age: 25,
+  school: "YouCode, Safi",
+  
+  interests: ["movies", "movies", "movies", "books", "travel"],
+  stack: "Full stack web developer",
+  address: {
+    city: "Casablanca",
+    country: "Morocco",
+  },
+  code: ["javascript", "PHP", "HTML", "CSS"],
+  frameworks: ["React", "Vue", "Larvel", "Angular", "Tailwindcss"],
+  architecture: ["MVC"],
+  tools: ["Git", "Github", "VSCode", "Photoshop", "Illustrator", "AdobeXD" , "Figma"],
+  languages: ["English", "Arabic", "French"],
+};
+```
+
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1848694/screenshots/4452371/dribdesgindeskgif.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dounya-m&label=Profile%20views&color=0e75b6&style=flat" alt="dounya-m" /> </p>
