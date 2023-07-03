@@ -26,7 +26,7 @@ const Dounya = {
 <table cellpadding="0">
   <tr style="padding: 10">
     <!-- GitHub Stats Card -->  
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=Halazv2&show_icons=true&theme=dracula&include_all_commits=true"/></td>
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=Dounya&show_icons=true&theme=dracula&include_all_commits=true"/></td>
     <!-- GitHub Top Language Card -->
     <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Halazv2&theme=dracula&layout=compact"/></td>
   </tr>
